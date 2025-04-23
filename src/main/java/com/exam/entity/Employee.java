@@ -67,6 +67,10 @@ public class Employee {
 		return "Employee [id=" + id + ", name=" + name + ", address=" + address + ", email=" + email + ", phone="
 				+ phone + ", salary=" + salary + "]";
 	}
-
+	
+	
+	
+	
+	
 
 }
